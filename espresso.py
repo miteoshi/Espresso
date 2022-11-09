@@ -161,6 +161,7 @@ try:
       os.system('cmd /c' "type NUL > ./{p}/graphql/schema.js".format(p = project_name))
 
       os.system('cmd /c "npm --prefix ./{p} install express-graphql graphql express-validator validator"'.format(p = project_name))
+      os.system('cmd /c "npm --prefix ./{p} install graphql"'.format(p = project_name))
 
       #Writing to app.js
       helperHeader('graph',appjs)
