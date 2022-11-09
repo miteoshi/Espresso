@@ -3,7 +3,7 @@
 A NodeJS project setup tool
 
 ## Getting Started
-Clone respository in your project folder
+Clone respository into your project folder
 
 `python espresso.py`
   
