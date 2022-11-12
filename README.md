@@ -5,6 +5,9 @@ A NodeJS project setup tool
 ## Getting Started
 Clone respository into your project folder
 
+git clone `https://github.com/joshipiyush9969/Espresso.git`
+
+Run 
 `python espresso.py`
   
 ### Architecture Support
